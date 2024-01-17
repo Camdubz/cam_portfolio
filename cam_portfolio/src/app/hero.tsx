@@ -13,44 +13,43 @@ function Hero() {
             color="blue-gray"
             className="mb-4 lg:text-5xl !leading-tight text-3xl"
           >
-            Welcome to my Web <br /> Development Portofolio!
+            Welcome to my Web <br /> Portofolio!
           </Typography>
           <Typography
             variant="lead"
             className="mb-4 !text-gray-500 md:pr-16 xl:pr-28"
           >
-            I&apos;m Lily Smith, a passionate web developer based in USA. Here,
-            you&apos;ll get a glimpse of my journey in the world of web
-            development, where creativity meets functionality.
+            I&apos;m Cameron White, a passionate digital communications professional. Here,
+            you&apos;ll get a glimpse of my journey in the world of web, where creativity meets functionality.
           </Typography>
           <div className="grid">
             <Typography
               variant="small"
               className="mb-2 text-gray-900 font-medium"
             >
-              Your email
+              Enter your email to start a conversation with me
             </Typography>
             <div className="mb-2 flex w-full flex-col gap-4 md:w-10/12 md:flex-row">
               {/* @ts-ignore */}
               <Input color="gray" label="Enter your email" size="lg" />
               <Button color="gray" className="w-full px-4 md:w-[12rem]">
-                require offer
+                Let's Chat
               </Button>
             </div>
           </div>
-          <Typography variant="small" className="font-normal !text-gray-500">
+          {/* <Typography variant="small" className="font-normal !text-gray-500">
             Read my{" "}
             <a href="#" className="font-medium underline transition-colors">
               Terms and Conditions
             </a>
-          </Typography>
+          </Typography> */}
         </div>
         <Image
           width={1024}
           height={1024}
           alt="team work"
-          src="/image/image-7.svg"
-          className="h-[36rem] w-full rounded-xl object-cover"
+          src="/image/1664844937273.jpeg"
+          className="h-[32rem] w-[32rem] rounded-xl object-cover"
         />
       </div>
     </header>

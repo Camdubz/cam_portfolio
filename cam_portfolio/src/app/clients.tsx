@@ -8,7 +8,7 @@ const CLIENTS = [
   "spotify",
   "pinterest",
   "google",
-  "amazon",
+  "doseco",
   "netflix",
 ];
 

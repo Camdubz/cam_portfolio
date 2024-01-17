@@ -22,7 +22,7 @@ const SKILLS = [
     icon: FingerPrintIcon,
     title: "Mobile App Development",
     children:
-      " I specialize in creating responsive and intuitive mobile apps that work seamlessly across iOS & Android devices. From concept to deployment, I handle every stage of the development process.",
+      " I can create responsive and intuitive mobile apps that work seamlessly across iOS & Android devices. From concept to deployment, I handle every stage of the development process.",
   },
   {
     icon: SwatchIcon,
@@ -34,19 +34,19 @@ const SKILLS = [
     icon: HashtagIcon,
     title: " Web Optimization",
     children:
-      "Performance matters. I optimize websites and apps for speed, ensuring your users enjoy a fast and responsive experience, which in turn boosts user satisfaction and SEO rankings.",
+      "Performance matters. I optimize websites and apps for speed and User Experience (UX) for strong satisfaction. I implement full measurement marketing using tools like GA4/GA, GTM, BigQuery, Looker, Mixpanel for accurate growth testing.",
   },
   {
     icon: EyeIcon,
     title: "User-Centric Design",
     children:
-      "My development goes hand-in-hand with an eye for design. I create user interfaces that are not only functional but also aesthetically pleasing, providing a seamless and enjoyable user journey.",
+      "My development goes hand-in-hand with an eye for design. I create user interfaces that are not only functional and experience-driven but also aesthetically pleasing, providing a seamless and enjoyable user journey.",
   },
   {
     icon: DocumentTextIcon,
-    title: "Testing and Quality Assurance",
+    title: "Marketing Communications",
     children:
-      "I rigorously test and debug applications to guarantee a bug-free and secure environment for users. Your peace of mind is as important to me as the functionality of your project.",
+      "With 9 years of digital marketing experience I create end-to-end Integrated Marketing Communications (IMC) strategies for businesses of any size or vertical. From research and creative ideation to data analysis and reporting, I create a single source of truth to measure and scale multi-faceted marketing campaigns."
   },
 ];
 
@@ -64,7 +64,7 @@ export function Skills() {
           variant="lead"
           className="mx-auto w-full !text-gray-500 lg:w-10/12"
         >
-          I&apos;m not just a developer; I&apos;m a digital dreamweaver.
+          I&apos;m not just a developer; I&apos;m a full-stack marketer.
           Crafting immersive online experiences is not just a job but my
           calling. Discover below how I can help you.
         </Typography>

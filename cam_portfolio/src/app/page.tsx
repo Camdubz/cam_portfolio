@@ -10,13 +10,15 @@ import Resume from "./resume";
 import Testimonial from "./testimonial";
 import PopularClients from "./popular-clients";
 import ContactForm from "./contact-form";
+import Clients1 from "./clients-1";
 
 export default function Portfolio() {
   return (
     <>
       <Navbar />
       <Hero />
-      <Clients />
+      <Clients1 />
+      {/* <Clients /> */}
       <Skills />
       <Projects />
       <Resume />
